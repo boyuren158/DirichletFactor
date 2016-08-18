@@ -48,7 +48,7 @@ all.bc = lapply( all.res, function(x){
   vegdist( w.norm, method = "bray" )
 })
 
-use.idx = sample( 1:length(all.corr), 1000, replace = F )
+use.idx = sample( 1:length(all.res), 1000, replace = F )
 
 #distatis
 all.bc.ls = lapply( all.bc[use.idx], as.matrix )
