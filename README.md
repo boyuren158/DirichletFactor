@@ -1,3 +1,5 @@
+# **Note:** DirichletFactor is packaged and the source code is moved to [here](https://github.com/boyuren158/DirFactor). All updates will be posted only to the new repository and this repository will be deactivated. Thank you so much for your interest.
+
 # DirichletFactor
 Dirichlet factor analysis model and its application in microbiome data analysis.
 
